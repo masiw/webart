@@ -1,0 +1,26 @@
+{
+  "name": "webart",
+  "version": "1.0.0",
+  "description": "A collection of pages containing art using web technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masiw/webart.git"
+  },
+  "keywords": [
+    "Web",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Art"
+  ],
+  "author": "masi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masiw/webart/issues"
+  },
+  "homepage": "https://github.com/masiw/webart#readme"
+}
